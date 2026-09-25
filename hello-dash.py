@@ -4,7 +4,3 @@ st.title("hello world web")
 st.write("hello world streamlit")
 dataframe = pd.read_csv("https://raw.githubusercontent.com/adsoftsito/ciencia-datos/refs/heads/main/titanic.csv")
 st.dataframe(dataframe)
-
-git add .
-git commit -m “hola”
-git push origin main
